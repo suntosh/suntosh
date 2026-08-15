@@ -1,16 +1,17 @@
-## Hi there 👋
+# Santosh Ahuja
 
-<!--
-**suntosh/suntosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering executive and architect. Twenty years building systems and the organizations that ship them — payments, healthcare, enterprise SaaS, defense, and AI infrastructure.
 
-Here are some ideas to get you started:
+Richardson, TX · MS ECE, Purdue
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I do
+
+I operate at both ends of the stack and treat that as one job, not two.
+
+**Down the stack** — RF and VLSI (5.25 GHz LNA, 6G receiver in 45nm CMOS), compute-in-memory macro characterization, CUDA kernels (GEMM, Tensor Core WMMA, Flash Attention), embedded systems and RTOS, CAN/CANOpen, ROS2.
+
+**Up the stack** — carrier-grade platform architecture, IoT gateways, SIP/VoIP, data center networks, LLM routing and orchestration, semantic layers over fragmented enterprise estates.
+
+**Across the org** — CTO, VP Engineering, Director, Chief Architect. Built engineering organizations from 3 to 60+ across defense, telecom, healthcare, and fintech.

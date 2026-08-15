@@ -1,6 +1,6 @@
 # Santosh Ahuja
 
-Engineering executive and architect. Twenty years building systems and the organizations that ship them — payments, healthcare, enterprise SaaS, defense, and AI infrastructure.
+Engineering executive and architect. Twenty years building systems and the organizations that ship them in payments, healthcare, enterprise SaaS, defense, and AI infrastructure.
 
 📍 Richardson, TX &nbsp;·&nbsp; 🎓 MS ECE, Purdue
 
